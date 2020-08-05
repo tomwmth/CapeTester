@@ -1,0 +1,16 @@
+[
+{
+  "modid": "capetester",
+  "name": "CapeTester",
+  "description": "A Forge mod for testing custom capes. Type /cape to get started.",
+  "version": "0.1",
+  "mcversion": "\${1.8.9}",
+  "url": "cannoner.club",
+  "updateUrl": "",
+  "authorList": ["Cannoner"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
